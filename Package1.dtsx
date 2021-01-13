@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="1/13/2021 1:17:40 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="IRIS-CSG-1559"
+  DTS:CreatorName="IRISSOFTWARE\niketa.kapoor"
+  DTS:DTSID="{D6323A04-B63A-4A81-B18A-AB571DA5B460}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.150"
+  DTS:LocaleID="16393"
+  DTS:ObjectName="Package1"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{02A4E4F3-D2AC-4122-A4AB-3BACD1AFDEF8}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
